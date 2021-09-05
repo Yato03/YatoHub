@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/YatoDev/static/css/main.26f9e6b0.chunk.css",
+    "main.js": "/YatoDev/static/js/main.1aeb3621.chunk.js",
+    "main.js.map": "/YatoDev/static/js/main.1aeb3621.chunk.js.map",
+    "runtime-main.js": "/YatoDev/static/js/runtime-main.eabd475c.js",
+    "runtime-main.js.map": "/YatoDev/static/js/runtime-main.eabd475c.js.map",
+    "static/js/2.c7c376ad.chunk.js": "/YatoDev/static/js/2.c7c376ad.chunk.js",
+    "static/js/2.c7c376ad.chunk.js.map": "/YatoDev/static/js/2.c7c376ad.chunk.js.map",
+    "static/js/3.8ccd9418.chunk.js": "/YatoDev/static/js/3.8ccd9418.chunk.js",
+    "static/js/3.8ccd9418.chunk.js.map": "/YatoDev/static/js/3.8ccd9418.chunk.js.map",
+    "index.html": "/YatoDev/index.html",
+    "static/css/main.26f9e6b0.chunk.css.map": "/YatoDev/static/css/main.26f9e6b0.chunk.css.map",
+    "static/js/2.c7c376ad.chunk.js.LICENSE.txt": "/YatoDev/static/js/2.c7c376ad.chunk.js.LICENSE.txt",
+    "static/media/Resolution.752d9693.apk": "/YatoDev/static/media/Resolution.752d9693.apk",
+    "static/media/bossAzul-Resolution.c6ab9834.jpg": "/YatoDev/static/media/bossAzul-Resolution.c6ab9834.jpg",
+    "static/media/bossNaranja-Resolution.e8c8d60a.jpg": "/YatoDev/static/media/bossNaranja-Resolution.e8c8d60a.jpg",
+    "static/media/bossRojo-Resolution.794a17c8.jpg": "/YatoDev/static/media/bossRojo-Resolution.794a17c8.jpg",
+    "static/media/finalBoss-Resolution.cdd7ca25.jpg": "/YatoDev/static/media/finalBoss-Resolution.cdd7ca25.jpg",
+    "static/media/gmail.3d45d2ca.png": "/YatoDev/static/media/gmail.3d45d2ca.png",
+    "static/media/instagram.b68f6a12.png": "/YatoDev/static/media/instagram.b68f6a12.png",
+    "static/media/logo.6ce24c58.svg": "/YatoDev/static/media/logo.6ce24c58.svg",
+    "static/media/menuPrincipal-Resolution.a8706c48.jpg": "/YatoDev/static/media/menuPrincipal-Resolution.a8706c48.jpg",
+    "static/media/resolution_gameplay_screenshot.ea3a4b04.jpg": "/YatoDev/static/media/resolution_gameplay_screenshot.ea3a4b04.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eabd475c.js",
+    "static/js/2.c7c376ad.chunk.js",
+    "static/css/main.26f9e6b0.chunk.css",
+    "static/js/main.1aeb3621.chunk.js"
+  ]
+}
